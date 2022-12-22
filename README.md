@@ -1,2 +1,2 @@
-# hyperion-aws-lambda
-Hyperion AWS Lambda Extension
+# Hyperion - AWS Lambda Extension (Rust)
+...
